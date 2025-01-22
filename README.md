@@ -1,4 +1,4 @@
-# PLAS PROJECT2
+# Loan Default Project
 
 This repository contains the Jupyter Notebook **loan_default_notebook.ipynb**, a data-driven project aimed at understanding spending habits and assessing the likelihood of loan default based on these patterns. 
 
